@@ -1,0 +1,5 @@
+File Jawaban
+
+1. Tidak error, namun akan ada bagian yang hilang.
+2. 
+3. Setiap file nya di refresh, selalu redirect ke google.com
