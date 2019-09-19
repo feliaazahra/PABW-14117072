@@ -1,5 +1,8 @@
+Nama: Felia Azahra
+Kelas: Pemrograman Web RB
+
 File Jawaban
 
 1. Tidak error, namun akan ada bagian yang hilang.
-2. 
+2. Akan melakukan refresh secara otomatis ke halaman web yang tertulis pada metadocument tiap satuan waktu yang ditentukan.
 3. Setiap file nya di refresh, selalu redirect ke google.com
