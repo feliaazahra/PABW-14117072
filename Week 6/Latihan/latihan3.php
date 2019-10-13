@@ -1,12 +1,18 @@
 <?php
-$a = 5;
-$b = 7;
-echo "a = $a <br>";
-echo "b = $b <br>";
-if($a == $b)
-echo "$a sama dengan $b";
-elseif ($a>$b)
-echo "$a lebih besar daripada $b";
-else
-echo "$a lebih kecil daripada $b";
-?>
+
+$nama = ["lanirne", "aduh", "qifuat", "toda", "anevi", "samid", "kifuat"];
+
+echo "Data acak: ";
+for($i=0;$i<7;$i++){
+    echo $nama[$i];
+    echo ", ";
+}
+
+echo "<br>";
+
+sort($nama);
+echo "Data terurut: ";
+for($i=0;$i<7;$i++){
+    echo $nama[$i];
+    echo ", ";
+}
