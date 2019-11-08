@@ -1,0 +1,195 @@
+body {
+    background-image:url('a.jpg');
+    background-size: auto;
+    background-position: center;
+    color: white;
+    font-family: Calibri Light;
+    font-weight: normal;
+}
+
+.box {
+    background-color: rgba(0,0,0,0.5);
+    padding-left: 0px;
+    padding-bottom: 0%;
+    margin-left: 750px;
+    width: 40%;
+    bottom: 275px;
+    position: fixed;
+}
+
+.bio {
+    background-color: rgba(0,0,0,0.5);
+    height: 350px;
+    width: 300px;
+    font: normal 12pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    padding-left: 0px;
+    padding-bottom: 0%;
+    margin-left: 750px;
+    width: 40%;
+    bottom: 275px;
+    top: 200px;
+    position: fixed;
+}
+
+.work {
+    background-color: rgba(0,0,0,0.5);
+    height: 250px;
+    width: 300px;
+    font: normal 12pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    padding-left: 0px;
+    padding-bottom: 0%;
+    margin-left: 750px;
+    width: 40%;
+    bottom: 275px;
+    top: 200px;
+    position: fixed;
+}
+
+.button {
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: rgba(0,0,0,0.2);
+    border: 2px solid white;
+    color: white;
+    font: normal 16pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    left: 300px;
+    top: 195px;
+   }
+
+.button1 {
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: rgba(0,0,0,0.2);
+    border: 2px solid white;
+    color: white;
+    font: normal 16pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    left: 300px;
+    top: 280px;
+   }
+
+.button2 {
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: rgba(0,0,0,0.2);
+    border: 2px solid white;
+    color: white;
+    font: normal 16pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    left: 300px;
+    top: 365px;
+   }
+
+.button3 {
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: rgba(0,0,0,0.2);
+    border: 2px solid white;
+    color: white;
+    font: normal 16pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    right: 260px;
+    bottom: 220px;
+   }
+
+.button4 {
+    display: block;
+    height: 60px;
+    width: 200px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    font: normal 24pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    left: 0px
+    top: 0px;
+   }
+
+.button5 {
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    font: bold 24pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    right: 475px;
+    top: 155px;
+   }
+
+.button6 {
+    display: block;
+    height: 30px;
+    width: 150px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    font: bold 24pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    right: 490px;
+    top: 155px;
+   }
+
+.insta {
+    display: block;
+    height: 25px;
+    width: 100px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    font: normal 15pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    right: 480px;
+    top: 205px;
+   }
+
+.twit {
+    display: block;
+    height: 25px;
+    width: 70px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    font: normal 15pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    right: 509px;
+    top: 235px;
+   }
+
+.google {
+    display: block;
+    height: 25px;
+    width: 85px;
+    background: rgba(0,0,0,0.0);
+    color: white;
+    font: normal 15pt "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    position: fixed;
+    right: 494px;
+    top: 265px;
+   }
+
+   a.button {
+    text-decoration: none;
+   }
+   a.button1 {
+    text-decoration: none;
+   }
+   a.button2 {
+    text-decoration: none;
+   }
+   a.button3 {
+    text-decoration: none;
+   }
+   a.button4 {
+    text-decoration: none;
+   }
+   a.insta {
+    text-decoration: none;
+   }
+   a.twit {
+    text-decoration: none;
+   }
+   a.google {
+    text-decoration: none;
+   }
