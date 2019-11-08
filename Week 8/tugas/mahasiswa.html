@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Data Mahasiswa</title>
+</head>
+<body>
+    <h4>TAMBAH DATA</h4>
+    <form action="tambahData.php" method="post">
+        NRP: <input type="text" name="nrp" size="35" maxlength="50"><br><br>
+        Nama: <input type="text" name="nama" size="35" maxlength="50"><br><br>
+        Foto: <input type="text" size="15" disabled="disabled">
+        <input type="file" name="foto" accept="image/*"><br><br>
+        Jurusan:
+        <select name="jurusan" >
+        <option value="Telekomunikasi">Telekomunikasi</option>
+        <option value="Elka">Elka</option>
+        <option value="IT">IT</option>
+        <option value="Elin">Elin</option>
+        </select>
+        <br><br><br>
+        <input type="submit" value="Tambah">
+    </form>
+</body>
+</html>
